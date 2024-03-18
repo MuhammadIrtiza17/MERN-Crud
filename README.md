@@ -6,8 +6,9 @@ the following file contains a zip folder for CRUD appliacation.
 ## INSTRUCTION TO USE 
 
 <ul> 
-  <li>open the folder in VS code</li> 
-  <li>run command  "npm run dev " in terminal for both client folder and server folder </li>
+  <li>Unzip file</li> 
+  <li>Open the folder in VS code</li> 
+  <li>Run command  "npm run dev " in terminal for both client folder and server folder </li>
 </ul> 
 
 ## note do not forget to install mongo DB compass or connect with mongo db atlas
